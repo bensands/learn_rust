@@ -1,2 +1,4 @@
 *.swp
 hello/main
+guess/target
+guess/Cargo.lock
